@@ -1,8 +1,8 @@
 <?php
-namespace App;
+namespace App\Controllers;
 /**
  * Bootstrap 4 "Navbar" component navwalker drop-in functionality for Sage 9
- * Version: 1.0
+ * Version: 1.1
  * Author: Michael W. Delaney
  *
  */
